@@ -1,0 +1,2 @@
+# SMAttnd
+An Attendance platform
